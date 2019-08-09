@@ -12,9 +12,6 @@
 /********* specify mic input channel in global variable *********/
 
 
-
-// Note: cmd + shift + library to recompile class library, this will include reboot
-
 (
 {
 	/* start up file */
